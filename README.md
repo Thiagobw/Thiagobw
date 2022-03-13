@@ -4,7 +4,7 @@
 
 - Atualmente estou estudando apenas
 
-- Eu estou aprendendo php, css, javascript e SQL
+- Eu estou aprendendo php, css, javascript e mySQL
 
 - conheço razoavelmente bem as linguagens java, c e c++
 
@@ -28,6 +28,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
 </div>
   
 ##
