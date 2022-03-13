@@ -4,7 +4,7 @@
 
 - Atualmente estou estudando apenas
 
-- Eu estou aprendendo php, css, javascript e mySQL
+- Estou aprendendo php, css, javascript e mySQL
 
 - conheço razoavelmente bem as linguagens java, c e c++
 
