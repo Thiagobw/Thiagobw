@@ -1,7 +1,3 @@
-<p align="center">
-  <b>English</b> &nbsp;·&nbsp; <a href="README.pt.md">Português</a>
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=36&duration=3500&pause=1200&color=6DB33F&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Thiago+Beffart+%F0%9F%91%8B;Software+Engineer+%40+NTT+DATA;Java+%C2%B7+Spring+Boot+%C2%B7+Angular" alt="Hi, I'm Thiago Beffart — Software Engineer @ NTT DATA">
 </h1>
@@ -23,6 +19,22 @@
   and contribute to the <b>Angular</b> frontend when the feature needs it.<br>
   I care about clean APIs, readable code and interfaces that are pleasant to use.
 </p>
+
+<div align="center">
+<details>
+<summary>🇧🇷 Ler em português</summary>
+<br>
+<p align="center">
+  <b>Software Engineer @ NTT DATA</b><br>
+  Backend com Java e Spring Boot · Frontend com Angular e TypeScript · Brasil 🇧🇷
+</p>
+<p align="center">
+  Desenvolvo e mantenho serviços backend com <b>Java e Spring Boot</b> na <b>NTT DATA</b>,<br>
+  e atuo no frontend em <b>Angular</b> quando a funcionalidade pede.<br>
+  Valorizo APIs bem desenhadas, código legível e interfaces agradáveis de usar.
+</p>
+</details>
+</div>
 
 <h2 align="center">Tech stack</h2>
 
